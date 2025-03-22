@@ -92,10 +92,14 @@ c.close()
 ```
 ## OUTPUT!
 server.py
-[Screenshot 2025-03-22 105732](https://github.com/user-attachments/assets/b5ca3bcf-75be-47c2-8c05-ba3ebca8ceae)
+
+![Screenshot 2025-03-22 105732](https://github.com/user-attachments/assets/d98f5a92-576a-49d2-9f29-5b99f3260a29)
+
+
 
 
 client.py
+
 ![Screenshot 2025-03-22 105744](https://github.com/user-attachments/assets/94a62372-0fc6-4965-92c0-966628803c6b)
 
 
